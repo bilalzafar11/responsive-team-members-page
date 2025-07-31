@@ -40,4 +40,4 @@ This project highlights animated profile cards, social media icons, and a scroll
 
 ## 🚀 Live Demo
 
-🔗 [Visit Live Page](https://bilalzafar11.github.io/responsive-team-members-page)
+🔗 [Visit Live Page]( https://bilalzafar11.github.io/responsive-team-members-page/)
